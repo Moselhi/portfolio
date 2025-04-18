@@ -80,7 +80,7 @@ footer{
 }
 
 #home {
-    background: url(wooden-shelf-tropical-forest-product-presentation-dark-green-background.jpg) no-repeat center center/cover;
+    background: url(background.webp) no-repeat center center/cover;
     background-size: cover;
     min-height: 100vh;
     position: relative;
